@@ -1,0 +1,1 @@
+# simple-docker-terraform-aws
